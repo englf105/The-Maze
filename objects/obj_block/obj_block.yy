@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"spr_border",
+    "path":"sprites/spr_border/spr_border.yy",
   },
   "spriteMaskId":null,
   "visible":true,

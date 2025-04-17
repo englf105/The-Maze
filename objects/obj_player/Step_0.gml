@@ -34,7 +34,7 @@ if keyboard_check(vk_down) {
 }
 
 if keyboard_check(vk_nokey) {
-	if(player_direction = -180) {
+	if(player_direction = 180) {
 		sprite_index = spr_player_idle_left
 	}
 	
