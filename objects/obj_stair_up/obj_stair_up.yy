@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_block",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_stair_up",
+  "eventList":[],
   "managed":true,
-  "name":"obj_block",
+  "name":"obj_stair_up",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_border",
-    "path":"sprites/spr_border/spr_border.yy",
+    "name":"spr_stair_up",
+    "path":"sprites/spr_stair_up/spr_stair_up.yy",
   },
   "spriteMaskId":null,
   "visible":true,

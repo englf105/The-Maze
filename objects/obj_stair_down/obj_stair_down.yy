@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_block",
+  "%Name":"obj_stair_down",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_block",
+  "name":"obj_stair_down",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_border",
-    "path":"sprites/spr_border/spr_border.yy",
+    "name":"spr_stair_down",
+    "path":"sprites/spr_stair_down/spr_stair_down.yy",
   },
   "spriteMaskId":null,
   "visible":true,

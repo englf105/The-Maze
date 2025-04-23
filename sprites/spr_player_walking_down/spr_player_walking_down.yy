@@ -1,8 +1,8 @@
 {
   "$GMSprite":"",
   "%Name":"spr_player_walking_down",
-  "bboxMode":0,
-  "bbox_bottom":29,
+  "bboxMode":2,
+  "bbox_bottom":28,
   "bbox_left":8,
   "bbox_right":23,
   "bbox_top":3,
