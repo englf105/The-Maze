@@ -3,6 +3,9 @@
 health = 100
 lives = 3
 
+//x = global.target_x;
+//y = global.target_y;
+
 walkSpeed = 2
 collisionSpeed = walkSpeed + 1
 player_direction = -90
