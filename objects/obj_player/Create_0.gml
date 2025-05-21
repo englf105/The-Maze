@@ -3,11 +3,15 @@
 health = 100
 lives = 3
 
-//x = global.target_x;
-//y = global.target_y;
+x = global.target_x;
+y = global.target_y;
 
-walkSpeed = 2
-collisionSpeed = walkSpeed + 1
-player_direction = -90
-image_speed_quotent = 2
-image_speed = 0
+global.player_x = x;
+global.player_y = y;
+
+global.player_direction = 270;
+
+walkSpeed = 2;
+collisionSpeed = walkSpeed + 1;
+image_speed_quotent = 2;
+image_speed = 0;

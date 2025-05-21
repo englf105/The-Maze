@@ -6,8 +6,8 @@
   "name":"obj_stair_up",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"stairs",
+    "path":"folders/Objects/stairs.yy",
   },
   "parentObjectId":null,
   "persistent":false,
