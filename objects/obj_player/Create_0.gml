@@ -1,7 +1,8 @@
 /// @description Initial Variables
 
-health = 100
-lives = 3
+global.player_health = 3;
+invincible = false;
+hit = false;
 
 x = global.target_x;
 y = global.target_y;

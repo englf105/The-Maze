@@ -47,6 +47,7 @@
     {"name":"spr_empty","order":8,"path":"sprites/spr_empty/spr_empty.yy",},
     {"name":"spr_enter_text","order":1,"path":"sprites/spr_enter_text/spr_enter_text.yy",},
     {"name":"spr_floor","order":3,"path":"sprites/spr_floor/spr_floor.yy",},
+    {"name":"spr_heart","order":3,"path":"sprites/spr_heart/spr_heart.yy",},
     {"name":"spr_player_attacking_left","order":3,"path":"sprites/spr_player_attacking_left/spr_player_attacking_left.yy",},
     {"name":"spr_player_attacking_right","order":2,"path":"sprites/spr_player_attacking_right/spr_player_attacking_right.yy",},
     {"name":"spr_player_attacking_up","order":1,"path":"sprites/spr_player_attacking_up/spr_player_attacking_up.yy",},

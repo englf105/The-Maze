@@ -7,3 +7,4 @@ global.obtained_torch = false;
 
 //enemy check for rooms
 global.room1_enemies = 2;
+

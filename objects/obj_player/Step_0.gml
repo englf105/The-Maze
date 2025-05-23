@@ -79,3 +79,18 @@ if keyboard_check(vk_nokey) {
 		sprite_index = spr_player_idle_down;
 	}
 }	
+
+// Invinciblity frames
+if (place_meeting(x,y, obj_enemy_bat)) {
+	hit = true;
+
+} else {
+	hit = false;
+}
+
+if (hit == true && invincible == false) {
+	image_blend = c_red;
+	global.player_health -=1;
+	invincible = true;
+	alarm[1] = 60;
+}
