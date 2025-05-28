@@ -25,6 +25,9 @@ if (global.obtained_sword == true) {
 			sprite_index = spr_empty;
 		}
 	}
+	else {
+			sprite_index = spr_empty;
+	}
 }
 else {
 	sprite_index = spr_empty;

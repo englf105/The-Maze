@@ -12,10 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1459e4f5-561b-450b-9ebe-6ee6bad17694","name":"1459e4f5-561b-450b-9ebe-6ee6bad17694","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8e59ec93-20d9-4a84-ad47-e980696e0fe4","name":"8e59ec93-20d9-4a84-ad47-e980696e0fe4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"5ebabffd-1791-4dbb-a546-995a69a766b7","name":"5ebabffd-1791-4dbb-a546-995a69a766b7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c8e9fc3e-8042-4da1-afcb-99ce4b2694ad","name":"c8e9fc3e-8042-4da1-afcb-99ce4b2694ad","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -28,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"enemy_skeleton",
-    "path":"folders/Sprites/enemy_animations/enemy_skeleton.yy",
+    "name":"enemy_skeleton_idle",
+    "path":"folders/Sprites/enemy_animations/enemy_skeleton/enemy_skeleton_idle.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -52,7 +49,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":4.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -72,17 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1459e4f5-561b-450b-9ebe-6ee6bad17694","path":"sprites/spr_skeleton_idle_up/spr_skeleton_idle_up.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"42c0bea0-60a8-429b-93b8-872a25ac0239","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8e59ec93-20d9-4a84-ad47-e980696e0fe4","path":"sprites/spr_skeleton_idle_up/spr_skeleton_idle_up.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3184ea36-d667-4e46-96eb-9b4e252858e6","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5ebabffd-1791-4dbb-a546-995a69a766b7","path":"sprites/spr_skeleton_idle_up/spr_skeleton_idle_up.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"bf789063-487f-4ab2-9c40-0d124a8396a1","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c8e9fc3e-8042-4da1-afcb-99ce4b2694ad","path":"sprites/spr_skeleton_idle_up/spr_skeleton_idle_up.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4cfd9aa7-373e-438f-91cb-e0a12e4de844","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"bf789063-487f-4ab2-9c40-0d124a8396a1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
